@@ -1,0 +1,7 @@
+*.wav filter=lfs diff=lfs merge=lfs -text
+*.DESKTOP-5KL5EQC filter=lfs diff=lfs merge=lfs -text
+*.7z.001 filter=lfs diff=lfs merge=lfs -text
+*.7z.002 filter=lfs diff=lfs merge=lfs -text
+*.7z.003 filter=lfs diff=lfs merge=lfs -text
+*.7z.004 filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
